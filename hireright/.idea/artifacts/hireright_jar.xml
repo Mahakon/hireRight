@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="hireright:jar">
+    <output-path>$USER_HOME$/Рабочий стол</output-path>
+    <root id="archive" name="hireright.jar">
+      <element id="module-output" name="hireright" />
+    </root>
+  </artifact>
+</component>
